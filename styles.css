@@ -1,1 +1,49 @@
-/* Write your CSS here! */
+html {
+  font-size: medium;
+  margin: auto;
+  align-content: center;
+}
+body {
+  margin: 8px;
+  display: block;
+}
+nav ul {
+  text-align: center;
+  padding: 0;
+}
+nav ul li {
+  display: inline-block;
+  margin: 3px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li a {
+  display: block;
+  text-align: center;
+  padding: 0;
+}
+li a:hover {
+  background-color: yellow;
+}
+section {
+  display: inline-block;
+  padding: 15px 25px;
+}
+#mainHeading {
+  color: red;
+  text-align: center;
+  padding: 10px;
+}
+.funParagraph {
+  color: green;
+  text-align: left;
+  font-size: large;
+  font-style: italic;
+  margin: auto;
+  padding: 10px;
+}
+h4 {
+  color: blue;
+} /* Write your CSS here! */
